@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41116208785",
+    "firebase_url": "https://proactiv-da2c6.firebaseio.com",
+    "project_id": "proactiv-da2c6",
+    "storage_bucket": "proactiv-da2c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41116208785:android:95d58393dc4e734a",
+        "android_client_info": {
+          "package_name": "loniya.org.proactiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41116208785-g0pg6k5ism4g544ot1k9d8uafgb7jmuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJsPcMaI__KjciTXMpko9O9oDYRJDyg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41116208785-g0pg6k5ism4g544ot1k9d8uafgb7jmuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
