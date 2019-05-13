@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+        //FCM to trigger notifications
         FirebaseInstanceId.getInstance().instanceId
             .addOnCompleteListener(OnCompleteListener { task ->
                 if (!task.isSuccessful) {
